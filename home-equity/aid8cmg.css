@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro-extra-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9acb20
+ * pt-serif:
+ *   - http://typekit.com/eulas/000000000000000000012500
+ * roboto:
+ *   - http://typekit.com/eulas/00000000000000003b9ad05f
+ *   - http://typekit.com/eulas/00000000000000003b9ad05b
+ *
+ * © 2009-2019 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-09-24 17:26:22 UTC"}*/
+
+@import url("p.css%3Fs=1&k=aid8cmg&ht=tk&f=9674.15498.15510.26016&a=15964975&app=typekit&e=css.css");
+
+@font-face {
+font-family:"pt-serif";
+src:url("l%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("d%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("a%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"roboto";
+src:url("l%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("d%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("a%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"roboto";
+src:url("l%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3.1") format("woff2"),url("d%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3.1") format("woff"),url("a%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3.1") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"acumin-pro-extra-condensed";
+src:url("l%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3.1") format("woff2"),url("d%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3.1") format("woff"),url("a%3Fprimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3.1") format("opentype");
+font-style:normal;font-weight:700;
+}

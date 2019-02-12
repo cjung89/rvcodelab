@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28.21 19.81" width="28.21" height="19.81">
+    <defs>
+        <clipPath id="clip-path">
+            <rect width="29" height="20" style="fill:none"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect x="-944" y="-446" width="1500" height="900" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <title>closing-curly-quote</title>
+    <g style="clip-path:url(#clip-path)">
+        <g style="clip-path:url(#clip-path-2)">
+            <path d="M5.16,12.15A5.58,5.58,0,0,1,.47,6.48,6.15,6.15,0,0,1,6.91.32c3.5,0,6.44,2.38,6.44,6.86a13.61,13.61,0,0,1-2.66,7.21L7,20.13H.05Zm14.91,0a5.58,5.58,0,0,1-4.69-5.67A6.15,6.15,0,0,1,21.82.32c3.5,0,6.44,2.38,6.44,6.86a13.61,13.61,0,0,1-2.66,7.21l-3.71,5.74H15Z" style="fill:#4d64ff"/>
+        </g>
+    </g>
+</svg>
